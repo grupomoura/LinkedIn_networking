@@ -1,0 +1,6 @@
+2023/07/28-19:02:03.993 157c5 Reusing MANIFEST /home/jamesmoura/Documentos/LinkedIn_networking/profile/wpp/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-19:02:03.994 157c5 Recovering log #3
+2023/07/28-19:02:03.994 157c5 Reusing old log /home/jamesmoura/Documentos/LinkedIn_networking/profile/wpp/Default/Local Storage/leveldb/000003.log 
+2023/07/28-19:03:04.778 157c5 Level-0 table #5: started
+2023/07/28-19:03:04.786 157c5 Level-0 table #5: 15695 bytes OK
+2023/07/28-19:03:04.794 157c5 Delete type=0 #3

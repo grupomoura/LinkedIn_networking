@@ -1,0 +1,7 @@
+[91824:91824:0728/191549.230914:ERROR:gl_utils.cc(402)] [.WebGL-0x29a8009b5b00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[91824:91824:0728/191557.344872:ERROR:gl_utils.cc(402)] [.WebGL-0x29a805722300]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[91871:91998:0728/191615.556725:WARNING:webrtc_voice_engine.cc(641)] Attempting to stop aecdump when no audio processing module is present
+[91824:91824:0728/191617.227783:ERROR:gl_utils.cc(402)] [.WebGL-0x29a807c64600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[91824:91824:0728/191725.742326:ERROR:gl_utils.cc(402)] [.WebGL-0x29a80092db00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[91871:91998:0728/191753.471376:WARNING:webrtc_voice_engine.cc(641)] Attempting to stop aecdump when no audio processing module is present
+[91871:91998:0728/192134.781862:WARNING:webrtc_voice_engine.cc(641)] Attempting to stop aecdump when no audio processing module is present
